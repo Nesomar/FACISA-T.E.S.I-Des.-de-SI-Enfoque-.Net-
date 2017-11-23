@@ -1,0 +1,6 @@
+C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Dominio\bin\Debug\ProjetoModeloDDD.Dominio.dll.config
+C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Dominio\bin\Debug\ProjetoModeloDDD.Dominio.dll
+C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Dominio\bin\Debug\ProjetoModeloDDD.Dominio.pdb
+C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Dominio\obj\Debug\ProjetoModeloDDD.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Dominio\obj\Debug\ProjetoModeloDDD.Dominio.dll
+C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Dominio\obj\Debug\ProjetoModeloDDD.Dominio.pdb
