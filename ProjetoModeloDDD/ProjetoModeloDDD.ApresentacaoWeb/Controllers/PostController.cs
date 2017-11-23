@@ -45,7 +45,7 @@ namespace ProjetoModeloDDD.ApresentacaoWeb.Controllers
             if (ModelState.IsValid)
             {
                 var postDomain = Mapper.Map<PostViewModel, Post>(postViewModel);
-                _postAppService.Atualizar(postDomain);
+                _postAppService.Adicionar(postDomain);
 
                 return RedirectToAction("Index");
             }

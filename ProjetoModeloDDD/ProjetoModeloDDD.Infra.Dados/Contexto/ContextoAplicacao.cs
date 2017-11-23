@@ -51,9 +51,10 @@ namespace ProjetoModeloDDD.Infra.Dados.Contexto
                 {
                     entry.Property("DataCadastro").CurrentValue = DateTime.Now;
                 }
+
                 if (entry.State == EntityState.Modified)
                 {
-                    entry.Property("DataCastro").IsModified = false;
+                    entry.Property("DataCadastro").IsModified = false;
                 }
             }
             return base.SaveChanges();

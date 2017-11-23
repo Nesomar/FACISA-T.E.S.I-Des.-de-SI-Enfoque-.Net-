@@ -1,5 +1,3 @@
-C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\obj\Debug\ProjetoModeloDDD.Aplicacao.csprojResolveAssemblyReference.cache
-C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\obj\Debug\ProjetoModeloDDD.Aplicacao.csproj.CoreCompileInputs.cache
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\bin\Debug\ProjetoModeloDDD.Aplicacao.dll
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\bin\Debug\ProjetoModeloDDD.Aplicacao.pdb
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\bin\Debug\Microsoft.Web.Infrastructure.dll
@@ -24,5 +22,7 @@ C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\bin\De
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\bin\Debug\pt-br\System.Web.WebPages.resources.dll
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\obj\Debug\ProjetoModeloDDD.Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\obj\Debug\ProjetoModeloDDD.Aplicacao.csproj.CoreCompileInputs.cache
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\obj\Debug\ProjetoModeloDDD.Aplicacao.dll
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\obj\Debug\ProjetoModeloDDD.Aplicacao.pdb

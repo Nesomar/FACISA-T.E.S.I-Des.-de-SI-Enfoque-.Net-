@@ -45,7 +45,7 @@ namespace ProjetoModeloDDD.ApresentacaoWeb.Controllers
             if (ModelState.IsValid)
             {
                 var ComentarioDomain = Mapper.Map<ComentarioViewModel, Comentario>(comentarioViewModel);
-                _ComentarioAppService.Atualizar(ComentarioDomain);
+                _ComentarioAppService.Adicionar(ComentarioDomain);
 
                 return RedirectToAction("Index");
             }

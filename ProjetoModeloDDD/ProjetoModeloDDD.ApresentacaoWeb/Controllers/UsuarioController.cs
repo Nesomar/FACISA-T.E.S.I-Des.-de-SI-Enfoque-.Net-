@@ -65,16 +65,16 @@ namespace ProjetoModeloDDD.ApresentacaoWeb.Controllers
         // POST: Usuario/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(UsuarioViewModel usuarioViewModel)
+        public ActionResult Edit(UsuarioViewModel usuario)
         {
             if (ModelState.IsValid)
             {
-                var usuarioDomain = Mapper.Map<UsuarioViewModel, Usuario>(usuarioViewModel);
+                var usuarioDomain = Mapper.Map<UsuarioViewModel, Usuario>(usuario);
                 _usuarioAppService.Atualizar(usuarioDomain);
 
                 return RedirectToAction("Index");
             }
-            return View(usuarioViewModel);
+            return View(usuario);
         }
 
         // GET: Usuario/Delete/5

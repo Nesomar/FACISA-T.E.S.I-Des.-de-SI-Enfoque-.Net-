@@ -45,7 +45,7 @@ namespace ProjetoModeloDDD.ApresentacaoWeb.Controllers
             if (ModelState.IsValid)
             {
                 var areaDomain = Mapper.Map<AreaViewModel, Area>(areaViewModel);
-                _areaAppService.Atualizar(areaDomain);
+                _areaAppService.Adicionar(areaDomain);
 
                 return RedirectToAction("Index");
             }

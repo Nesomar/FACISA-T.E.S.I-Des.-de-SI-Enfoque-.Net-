@@ -13,9 +13,9 @@ namespace ProjetoModeloDDD.Infra.Dados.ConfigEntidades
 
             Property(p => p.Texto).IsRequired().HasMaxLength(250);
 
-            HasRequired(p => p.Usuario).WithMany().HasForeignKey(p => p.UsuarioID);
+            HasRequired(p => p.Usuario).WithMany().HasForeignKey(p => p.UsuarioId);
 
-            HasRequired(p => p.Area).WithMany().HasForeignKey(p => p.AreaID);
+            HasRequired(p => p.Area).WithMany().HasForeignKey(p => p.AreaId);
         }
     }
 }

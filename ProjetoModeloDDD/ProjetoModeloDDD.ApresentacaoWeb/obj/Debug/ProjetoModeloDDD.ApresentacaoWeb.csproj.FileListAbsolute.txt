@@ -1,5 +1,3 @@
-C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.ApresentacaoWeb\obj\Debug\ProjetoModeloDDD.ApresentacaoWeb.csprojResolveAssemblyReference.cache
-C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.ApresentacaoWeb\obj\Debug\ProjetoModeloDDD.ApresentacaoWeb.csproj.CoreCompileInputs.cache
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.ApresentacaoWeb\bin\AutoMapper.Net4.dll
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.ApresentacaoWeb\bin\ApplicationInsights.config
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.ApresentacaoWeb\bin\ProjetoModeloDDD.ApresentacaoWeb.dll.config
@@ -68,5 +66,7 @@ C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.ApresentacaoWeb\
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.ApresentacaoWeb\bin\pt-br\System.Web.WebPages.resources.dll
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.ApresentacaoWeb\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.ApresentacaoWeb\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.ApresentacaoWeb\obj\Debug\ProjetoModeloDDD.ApresentacaoWeb.csprojResolveAssemblyReference.cache
+C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.ApresentacaoWeb\obj\Debug\ProjetoModeloDDD.ApresentacaoWeb.csproj.CoreCompileInputs.cache
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.ApresentacaoWeb\obj\Debug\ProjetoModeloDDD.ApresentacaoWeb.dll
 C:\Users\Nesomar\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.ApresentacaoWeb\obj\Debug\ProjetoModeloDDD.ApresentacaoWeb.pdb

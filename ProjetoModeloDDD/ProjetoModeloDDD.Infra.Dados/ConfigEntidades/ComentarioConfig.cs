@@ -11,9 +11,9 @@ namespace ProjetoModeloDDD.Infra.Dados.ConfigEntidades
 
             Property(c => c.Texto).IsRequired().HasMaxLength(250);
 
-            HasRequired(c => c.Post).WithMany().HasForeignKey(c => c.PostID);
+            HasRequired(c => c.Post).WithMany().HasForeignKey(c => c.PostId);
 
-            HasRequired(c => c.Usuario).WithMany().HasForeignKey(c => c.UsuarioID);
+            HasRequired(c => c.Usuario).WithMany().HasForeignKey(c => c.UsuarioId);
         }
     }
 }

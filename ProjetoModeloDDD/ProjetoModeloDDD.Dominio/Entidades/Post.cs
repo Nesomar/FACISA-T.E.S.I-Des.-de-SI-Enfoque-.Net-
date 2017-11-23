@@ -14,9 +14,9 @@ namespace ProjetoModeloDDD.Dominio.Entidades
         public string Texto { get; set; }
         public DateTime DataCadastro { get; set; }
 
-        public Nullable<int> UsuarioID { get; set; }
+        public Nullable<int> UsuarioId { get; set; }
         public virtual Usuario Usuario { get; set; }
-        public Nullable<int> AreaID { get; set; }
+        public Nullable<int> AreaId { get; set; }
         public virtual Area Area { get; set; }
         public virtual ICollection<Comentario> Comentarios { get; set; }
     }
